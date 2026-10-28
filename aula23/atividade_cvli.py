@@ -21,7 +21,15 @@ try:
         by='aisp',
         ascending=False
     )
+    # Total
+    total_cvli = df_cvli['cvli'].sum()
 
+    # Percentual
+
+    df_cvli['percentual %'] = round(
+        ((df_cvli['cvli'] /total_cvli) * 100),2
+        )
+    
     print(df_cvli)
 
 except Exception as e:
