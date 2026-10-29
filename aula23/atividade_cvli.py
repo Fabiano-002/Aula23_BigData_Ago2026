@@ -14,7 +14,7 @@ try:
     df_ocorrencias = pd.read_csv(ENDERECO_DADOS, sep=';', encoding='iso-8859-1')
 
     
-    df_cvli = df_ocorrencias[['aisp','cvli']]
+    df_cvli = df_ocorrencias[['aisp', 'cvli']]
 
     df_cvli= df_cvli.groupby('aisp', as_index=False)['cvli'].sum()
     df_cvli = df_cvli.sort_values(

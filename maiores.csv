@@ -1,12 +1,36 @@
-aisp;cvli;percentual %
-39;5410;4.68
-32;3912;3.38
-25;5871;5.08
-24;5161;4.47
-20;11549;9.99
-15;9166;7.93
-14;5076;4.39
-12;3761;3.25
-9;6407;5.54
-8;4947;4.28
-7;7517;6.5
+aisp;munic;cvli;percentual %
+3;Rio de Janeiro;2990;2.59
+7;São Gonçalo;7517;6.5
+8;Campos dos Goytacazes;4072;3.52
+9;Rio de Janeiro;6407;5.54
+12;Maricá;1009;0.87
+12;Niterói;2752;2.38
+14;Rio de Janeiro;5076;4.39
+15;Duque de Caxias;9166;7.93
+16;Rio de Janeiro;2471;2.14
+18;Rio de Janeiro;2546;2.2
+20;Mesquita;1216;1.05
+20;Nilópolis;1033;0.89
+20;Nova Iguaçu;8497;7.35
+21;São João de Meriti;3613;3.13
+22;Rio de Janeiro;2133;1.85
+24;Itaguaí;1407;1.22
+24;Japeri;1010;0.87
+24;Queimados;1616;1.4
+25;Araruama;1161;1.0
+25;Cabo Frio;1589;1.37
+27;Rio de Janeiro;3588;3.1
+28;Barra Mansa;1087;0.94
+28;Volta Redonda;1555;1.35
+31;Rio de Janeiro;1264;1.09
+32;Macaé;1571;1.36
+32;Rio das Ostras;971;0.84
+33;Angra dos Reis;1537;1.33
+34;Magé;1740;1.51
+35;Itaboraí;1144;0.99
+35;"Itaboraí;Tanguá";1086;0.94
+39;Belford Roxo;2901;2.51
+39;Rio de Janeiro;2509;2.17
+40;Belford Roxo;1304;1.13
+40;Rio de Janeiro;1063;0.92
+41;Rio de Janeiro;2644;2.29

@@ -1,12 +1,36 @@
-aisp;cvli;percentual %
-43;26;0.02
-38;650;0.56
-36;499;0.43
-30;547;0.47
-26;610;0.53
-23;473;0.41
-19;239;0.21
-13;119;0.1
-5;860;0.74
-2;394;0.34
-1;699;0.6
+aisp;munic;cvli;percentual %
+10;"Comendador Levy Gasparian;Areal;Três Rios";9;0.01
+10;Engenheiro Paulo de Frontin;27;0.02
+10;Paraíba do Sul;1;0.0
+10;Pinheiral;31;0.03
+10;"Piraí;Pinheiral";11;0.01
+10;Rio das Flores;15;0.01
+10;Sapucaia;3;0.0
+11;Cachoeiras de Macacu;4;0.0
+11;Carmo;9;0.01
+11;Duas Barras;28;0.02
+11;Sumidouro;5;0.0
+28;Itatiaia;2;0.0
+28;Resende;9;0.01
+28;Rio Claro;34;0.03
+29;Laje do Muriaé;33;0.03
+29;Porciúncula;33;0.03
+30;Carmo;18;0.02
+30;Sumidouro;23;0.02
+30;São José do Vale do Rio Preto;18;0.02
+32;Angra dos Reis;14;0.01
+32;Mangaratiba;7;0.01
+32;Paraty;4;0.0
+33;Rio Claro;20;0.02
+34;Casimiro de Abreu;3;0.0
+34;Conceição de Macabú;1;0.0
+34;"Macaé;Quissamã;Carapebus";21;0.02
+34;Rio das Ostras;10;0.01
+36;Rio de Janeiro;15;0.01
+36;São Sebastião do Alto;34;0.03
+37;Cambuci;0;0.0
+37;Itaocara;3;0.0
+37;Miracema;0;0.0
+37;"Santo Antônio de Pádua;Aperibé";0;0.0
+37;São Sebastião do Alto;0;0.0
+43;Paraty;26;0.02
